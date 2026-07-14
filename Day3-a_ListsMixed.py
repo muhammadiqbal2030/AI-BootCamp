@@ -3,5 +3,5 @@
 StudentsList = ["Iqbal","Adnan","Manan"]
 SubjectsList = ["Maths","English","CS"]
 Line = "========================"
-Name = "Students Name"
+Name = "Students Name:"
 print(Name + " " + str(StudentsList))
